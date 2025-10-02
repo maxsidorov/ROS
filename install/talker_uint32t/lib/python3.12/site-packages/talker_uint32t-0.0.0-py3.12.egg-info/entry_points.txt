@@ -1,2 +1,0 @@
-[console_scripts]
-talker = talker_uint32t.talker_uint32t:main

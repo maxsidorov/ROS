@@ -1,2 +1,0 @@
-[console_scripts]
-velocity_client = my_service_client.client_node:main
