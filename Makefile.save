@@ -1,0 +1,5 @@
+SHELL
+init:
+	colcon build
+	echo "build finished"
+	source ~/.bashrc
