@@ -1,0 +1,25 @@
+[1.051s] Invoking command in '/home/maxim/ros2_ws/src/my_turtle_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/maxim/ros2_ws/build/my_turtle_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/maxim/ros2_ws/install/my_turtle_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_turtle_controller build --build-base /home/maxim/ros2_ws/build/my_turtle_controller/build install --record /home/maxim/ros2_ws/build/my_turtle_controller/install.log --single-version-externally-managed install_data
+[1.179s] running egg_info
+[1.186s] writing ../../build/my_turtle_controller/my_turtle_controller.egg-info/PKG-INFO
+[1.187s] writing dependency_links to ../../build/my_turtle_controller/my_turtle_controller.egg-info/dependency_links.txt
+[1.187s] writing entry points to ../../build/my_turtle_controller/my_turtle_controller.egg-info/entry_points.txt
+[1.187s] writing requirements to ../../build/my_turtle_controller/my_turtle_controller.egg-info/requires.txt
+[1.187s] writing top-level names to ../../build/my_turtle_controller/my_turtle_controller.egg-info/top_level.txt
+[1.202s] reading manifest file '../../build/my_turtle_controller/my_turtle_controller.egg-info/SOURCES.txt'
+[1.202s] writing manifest file '../../build/my_turtle_controller/my_turtle_controller.egg-info/SOURCES.txt'
+[1.202s] running build
+[1.202s] running build_py
+[1.202s] copying my_turtle_controller/turtle_figure8.py -> /home/maxim/ros2_ws/build/my_turtle_controller/build/lib/my_turtle_controller
+[1.203s] running install
+[1.207s] running install_lib
+[1.214s] copying /home/maxim/ros2_ws/build/my_turtle_controller/build/lib/my_turtle_controller/turtle_figure8.py -> /home/maxim/ros2_ws/install/my_turtle_controller/lib/python3.12/site-packages/my_turtle_controller
+[1.215s] byte-compiling /home/maxim/ros2_ws/install/my_turtle_controller/lib/python3.12/site-packages/my_turtle_controller/turtle_figure8.py to turtle_figure8.cpython-312.pyc
+[1.215s] running install_data
+[1.215s] running install_egg_info
+[1.223s] removing '/home/maxim/ros2_ws/install/my_turtle_controller/lib/python3.12/site-packages/my_turtle_controller-0.0.0-py3.12.egg-info' (and everything under it)
+[1.223s] Copying ../../build/my_turtle_controller/my_turtle_controller.egg-info to /home/maxim/ros2_ws/install/my_turtle_controller/lib/python3.12/site-packages/my_turtle_controller-0.0.0-py3.12.egg-info
+[1.223s] running install_scripts
+[1.277s] Installing turtle_figure8 script to /home/maxim/ros2_ws/install/my_turtle_controller/lib/my_turtle_controller
+[1.278s] Installing turtle_mover script to /home/maxim/ros2_ws/install/my_turtle_controller/lib/my_turtle_controller
+[1.278s] writing list of installed files to '/home/maxim/ros2_ws/build/my_turtle_controller/install.log'
+[1.305s] Invoked command in '/home/maxim/ros2_ws/src/my_turtle_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/maxim/ros2_ws/build/my_turtle_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/maxim/ros2_ws/install/my_turtle_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_turtle_controller build --build-base /home/maxim/ros2_ws/build/my_turtle_controller/build install --record /home/maxim/ros2_ws/build/my_turtle_controller/install.log --single-version-externally-managed install_data

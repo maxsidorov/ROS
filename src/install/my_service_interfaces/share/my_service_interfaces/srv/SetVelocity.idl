@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from my_service_interfaces/srv/SetVelocity.srv
+// generated code does not contain a copyright notice
+
+
+module my_service_interfaces {
+  module srv {
+    struct SetVelocity_Request {
+      float linear;
+
+      float angular;
+    };
+    struct SetVelocity_Response {
+      boolean success;
+
+      string message;
+    };
+  };
+};

@@ -1,0 +1,242 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-b562d0affcd5cfa5f21e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "my_service_interfaces__py",
+					"jsonFile" : "directory-my_service_interfaces__py-1980ecd549b174de31a9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/maxim/ros2_ws/build/my_service_interfaces/my_service_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "my_service_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_my_service_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_my_service_interfaces_egg-5360de5cc300b160f079.json",
+					"name" : "ament_cmake_python_build_my_service_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_my_service_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_my_service_interfaces-bc471a602eb349ea467c.json",
+					"name" : "ament_cmake_python_copy_my_service_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces-95c685f884475e6b9e54.json",
+					"name" : "my_service_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces__cpp-b3432f3b6d20b7c3add1.json",
+					"name" : "my_service_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "my_service_interfaces__py::@13c60fd011d3903b3e48",
+					"jsonFile" : "target-my_service_interfaces__py-ab1e4742b9aa4d665196.json",
+					"name" : "my_service_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces__rosidl_generator_c-aa5b93ef0555d79eb890.json",
+					"name" : "my_service_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces__rosidl_generator_py-9f724dcbde25bedaadfb.json",
+					"name" : "my_service_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces__rosidl_generator_type_description-11482f7feadde5ba0b19.json",
+					"name" : "my_service_interfaces__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces__rosidl_typesupport_c-1882d6c0407739c97e85.json",
+					"name" : "my_service_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces__rosidl_typesupport_cpp-0a40631945e175d28c6c.json",
+					"name" : "my_service_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces__rosidl_typesupport_fastrtps_c-38b26d002bb13269a9be.json",
+					"name" : "my_service_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces__rosidl_typesupport_fastrtps_cpp-204195c43252ff1bb077.json",
+					"name" : "my_service_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces__rosidl_typesupport_introspection_c-1846917111f1b51cd4f8.json",
+					"name" : "my_service_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces__rosidl_typesupport_introspection_cpp-ed72c190cb72ccfcc85c.json",
+					"name" : "my_service_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces_s__rosidl_typesupport_c-db67492194d11cb318b7.json",
+					"name" : "my_service_interfaces_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces_s__rosidl_typesupport_fastrtps_c-83b64db19ef1ab4d66b8.json",
+					"name" : "my_service_interfaces_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces_s__rosidl_typesupport_introspection_c-362dcd6b25ece4bb6318.json",
+					"name" : "my_service_interfaces_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_service_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_service_interfaces_uninstall-d52a52df8b94ee31d0d3.json",
+					"name" : "my_service_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-8ca840cfb1c1e278c347.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/maxim/ros2_ws/build/my_service_interfaces",
+		"source" : "/home/maxim/ros2_ws/src/my_service_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,37 @@
+[0.505s] Invoking command in '/home/maxim/ros2_ws/src/my_service_server': AMENT_PREFIX_PATH=/home/maxim/ros2_ws/src/install/my_service_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/maxim/ros2_ws/src/install/my_service_interfaces:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/maxim/ros2_ws/src/install/my_service_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/maxim/ros2_ws/src/build/my_service_server/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/maxim/ros2_ws/src/install/my_service_server/lib/python3.12/site-packages:/home/maxim/ros2_ws/src/install/my_service_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_service_server build --build-base /home/maxim/ros2_ws/src/build/my_service_server/build install --record /home/maxim/ros2_ws/src/build/my_service_server/install.log --single-version-externally-managed install_data
+[0.640s] running egg_info
+[0.640s] creating ../build/my_service_server/my_service_server.egg-info
+[0.647s] writing ../build/my_service_server/my_service_server.egg-info/PKG-INFO
+[0.648s] writing dependency_links to ../build/my_service_server/my_service_server.egg-info/dependency_links.txt
+[0.648s] writing entry points to ../build/my_service_server/my_service_server.egg-info/entry_points.txt
+[0.648s] writing requirements to ../build/my_service_server/my_service_server.egg-info/requires.txt
+[0.648s] writing top-level names to ../build/my_service_server/my_service_server.egg-info/top_level.txt
+[0.648s] writing manifest file '../build/my_service_server/my_service_server.egg-info/SOURCES.txt'
+[0.664s] reading manifest file '../build/my_service_server/my_service_server.egg-info/SOURCES.txt'
+[0.664s] writing manifest file '../build/my_service_server/my_service_server.egg-info/SOURCES.txt'
+[0.664s] running build
+[0.664s] running build_py
+[0.664s] creating /home/maxim/ros2_ws/src/build/my_service_server/build
+[0.665s] creating /home/maxim/ros2_ws/src/build/my_service_server/build/lib
+[0.665s] creating /home/maxim/ros2_ws/src/build/my_service_server/build/lib/my_service_server
+[0.665s] copying my_service_server/server_node.py -> /home/maxim/ros2_ws/src/build/my_service_server/build/lib/my_service_server
+[0.665s] copying my_service_server/__init__.py -> /home/maxim/ros2_ws/src/build/my_service_server/build/lib/my_service_server
+[0.665s] running install
+[0.668s] running install_lib
+[0.676s] creating /home/maxim/ros2_ws/src/install/my_service_server/lib/python3.12/site-packages/my_service_server
+[0.676s] copying /home/maxim/ros2_ws/src/build/my_service_server/build/lib/my_service_server/server_node.py -> /home/maxim/ros2_ws/src/install/my_service_server/lib/python3.12/site-packages/my_service_server
+[0.676s] copying /home/maxim/ros2_ws/src/build/my_service_server/build/lib/my_service_server/__init__.py -> /home/maxim/ros2_ws/src/install/my_service_server/lib/python3.12/site-packages/my_service_server
+[0.677s] byte-compiling /home/maxim/ros2_ws/src/install/my_service_server/lib/python3.12/site-packages/my_service_server/server_node.py to server_node.cpython-312.pyc
+[0.677s] byte-compiling /home/maxim/ros2_ws/src/install/my_service_server/lib/python3.12/site-packages/my_service_server/__init__.py to __init__.cpython-312.pyc
+[0.677s] running install_data
+[0.677s] creating /home/maxim/ros2_ws/src/install/my_service_server/share/ament_index
+[0.677s] creating /home/maxim/ros2_ws/src/install/my_service_server/share/ament_index/resource_index
+[0.677s] creating /home/maxim/ros2_ws/src/install/my_service_server/share/ament_index/resource_index/packages
+[0.677s] copying resource/my_service_server -> /home/maxim/ros2_ws/src/install/my_service_server/share/ament_index/resource_index/packages
+[0.677s] copying package.xml -> /home/maxim/ros2_ws/src/install/my_service_server/share/my_service_server
+[0.677s] running install_egg_info
+[0.686s] Copying ../build/my_service_server/my_service_server.egg-info to /home/maxim/ros2_ws/src/install/my_service_server/lib/python3.12/site-packages/my_service_server-0.0.0-py3.12.egg-info
+[0.686s] running install_scripts
+[0.747s] Installing velocity_server script to /home/maxim/ros2_ws/src/install/my_service_server/lib/my_service_server
+[0.747s] writing list of installed files to '/home/maxim/ros2_ws/src/build/my_service_server/install.log'
+[0.778s] Invoked command in '/home/maxim/ros2_ws/src/my_service_server' returned '0': AMENT_PREFIX_PATH=/home/maxim/ros2_ws/src/install/my_service_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/maxim/ros2_ws/src/install/my_service_interfaces:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/maxim/ros2_ws/src/install/my_service_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/maxim/ros2_ws/src/build/my_service_server/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/maxim/ros2_ws/src/install/my_service_server/lib/python3.12/site-packages:/home/maxim/ros2_ws/src/install/my_service_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_service_server build --build-base /home/maxim/ros2_ws/src/build/my_service_server/build install --record /home/maxim/ros2_ws/src/build/my_service_server/install.log --single-version-externally-managed install_data

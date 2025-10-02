@@ -1,0 +1,25 @@
+[1.444s] Invoking command in '/home/maxim/ros2_ws/src/snake': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/maxim/ros2_ws/build/snake/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/maxim/ros2_ws/install/snake/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/snake build --build-base /home/maxim/ros2_ws/build/snake/build install --record /home/maxim/ros2_ws/build/snake/install.log --single-version-externally-managed install_data
+[1.822s] running egg_info
+[1.845s] writing ../../build/snake/snake.egg-info/PKG-INFO
+[1.846s] writing dependency_links to ../../build/snake/snake.egg-info/dependency_links.txt
+[1.846s] writing entry points to ../../build/snake/snake.egg-info/entry_points.txt
+[1.846s] writing requirements to ../../build/snake/snake.egg-info/requires.txt
+[1.846s] writing top-level names to ../../build/snake/snake.egg-info/top_level.txt
+[1.895s] reading manifest file '../../build/snake/snake.egg-info/SOURCES.txt'
+[1.897s] writing manifest file '../../build/snake/snake.egg-info/SOURCES.txt'
+[1.897s] running build
+[1.897s] running build_py
+[1.897s] copying snake/followerNode.py -> /home/maxim/ros2_ws/build/snake/build/lib/snake
+[1.897s] running install
+[1.909s] running install_lib
+[1.935s] copying /home/maxim/ros2_ws/build/snake/build/lib/snake/followerNode.py -> /home/maxim/ros2_ws/install/snake/lib/python3.12/site-packages/snake
+[1.936s] byte-compiling /home/maxim/ros2_ws/install/snake/lib/python3.12/site-packages/snake/followerNode.py to followerNode.cpython-312.pyc
+[1.939s] running install_data
+[1.939s] running install_egg_info
+[1.965s] removing '/home/maxim/ros2_ws/install/snake/lib/python3.12/site-packages/snake-0.0.0-py3.12.egg-info' (and everything under it)
+[1.965s] Copying ../../build/snake/snake.egg-info to /home/maxim/ros2_ws/install/snake/lib/python3.12/site-packages/snake-0.0.0-py3.12.egg-info
+[1.966s] running install_scripts
+[2.121s] Installing follow script to /home/maxim/ros2_ws/install/snake/lib/snake
+[2.121s] Installing snake script to /home/maxim/ros2_ws/install/snake/lib/snake
+[2.122s] writing list of installed files to '/home/maxim/ros2_ws/build/snake/install.log'
+[2.160s] Invoked command in '/home/maxim/ros2_ws/src/snake' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/maxim/ros2_ws/build/snake/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/maxim/ros2_ws/install/snake/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/snake build --build-base /home/maxim/ros2_ws/build/snake/build install --record /home/maxim/ros2_ws/build/snake/install.log --single-version-externally-managed install_data

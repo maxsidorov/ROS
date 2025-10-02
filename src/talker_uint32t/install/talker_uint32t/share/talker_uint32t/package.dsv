@@ -1,0 +1,6 @@
+source;share/talker_uint32t/hook/pythonpath.ps1
+source;share/talker_uint32t/hook/pythonpath.dsv
+source;share/talker_uint32t/hook/pythonpath.sh
+source;share/talker_uint32t/hook/ament_prefix_path.ps1
+source;share/talker_uint32t/hook/ament_prefix_path.dsv
+source;share/talker_uint32t/hook/ament_prefix_path.sh

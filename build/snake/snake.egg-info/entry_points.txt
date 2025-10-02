@@ -1,0 +1,3 @@
+[console_scripts]
+follow = snake.moveSnake:main
+snake = snake.followerNode:main

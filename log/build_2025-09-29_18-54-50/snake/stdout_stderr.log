@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/snake/snake.egg-info
+writing ../../build/snake/snake.egg-info/PKG-INFO
+writing dependency_links to ../../build/snake/snake.egg-info/dependency_links.txt
+writing entry points to ../../build/snake/snake.egg-info/entry_points.txt
+writing requirements to ../../build/snake/snake.egg-info/requires.txt
+writing top-level names to ../../build/snake/snake.egg-info/top_level.txt
+writing manifest file '../../build/snake/snake.egg-info/SOURCES.txt'
+reading manifest file '../../build/snake/snake.egg-info/SOURCES.txt'
+writing manifest file '../../build/snake/snake.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/maxim/ros2_ws/build/snake/build
+creating /home/maxim/ros2_ws/build/snake/build/lib
+creating /home/maxim/ros2_ws/build/snake/build/lib/snake
+copying snake/followerNode.py -> /home/maxim/ros2_ws/build/snake/build/lib/snake
+copying snake/__init__.py -> /home/maxim/ros2_ws/build/snake/build/lib/snake
+running install
+running install_lib
+creating /home/maxim/ros2_ws/install/snake/lib/python3.12/site-packages/snake
+copying /home/maxim/ros2_ws/build/snake/build/lib/snake/followerNode.py -> /home/maxim/ros2_ws/install/snake/lib/python3.12/site-packages/snake
+copying /home/maxim/ros2_ws/build/snake/build/lib/snake/__init__.py -> /home/maxim/ros2_ws/install/snake/lib/python3.12/site-packages/snake
+byte-compiling /home/maxim/ros2_ws/install/snake/lib/python3.12/site-packages/snake/followerNode.py to followerNode.cpython-312.pyc
+byte-compiling /home/maxim/ros2_ws/install/snake/lib/python3.12/site-packages/snake/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/maxim/ros2_ws/install/snake/share/ament_index
+creating /home/maxim/ros2_ws/install/snake/share/ament_index/resource_index
+creating /home/maxim/ros2_ws/install/snake/share/ament_index/resource_index/packages
+copying resource/snake -> /home/maxim/ros2_ws/install/snake/share/ament_index/resource_index/packages
+copying package.xml -> /home/maxim/ros2_ws/install/snake/share/snake
+running install_egg_info
+Copying ../../build/snake/snake.egg-info to /home/maxim/ros2_ws/install/snake/lib/python3.12/site-packages/snake-0.0.0-py3.12.egg-info
+running install_scripts
+Installing snake script to /home/maxim/ros2_ws/install/snake/lib/snake
+writing list of installed files to '/home/maxim/ros2_ws/build/snake/install.log'

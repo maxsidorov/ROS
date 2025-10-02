@@ -1,0 +1,24 @@
+[0.665s] Invoking command in '/home/maxim/ros2_ws/src/my_service_server': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/maxim/ros2_ws/build/my_service_server/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/maxim/ros2_ws/install/my_service_server/lib/python3.12/site-packages:/home/maxim/ros2_ws/install/my_service_interfaces/lib/python3.12/site-packages:/home/maxim/ros2_ws/install/my_service_server/lib/python3.12/site-packages:/home/maxim/ros2_ws/install/talker_uint32t/lib/python3.12/site-packages:/home/maxim/ros2_ws/install/talker/lib/python3.12/site-packages:/home/maxim/ros2_ws/install/my_turtle_controller/lib/python3.12/site-packages:/home/maxim/ros2_ws/install/listener/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_service_server build --build-base /home/maxim/ros2_ws/build/my_service_server/build install --record /home/maxim/ros2_ws/build/my_service_server/install.log --single-version-externally-managed install_data
+[0.847s] running egg_info
+[0.854s] writing ../../build/my_service_server/my_service_server.egg-info/PKG-INFO
+[0.854s] writing dependency_links to ../../build/my_service_server/my_service_server.egg-info/dependency_links.txt
+[0.855s] writing entry points to ../../build/my_service_server/my_service_server.egg-info/entry_points.txt
+[0.855s] writing requirements to ../../build/my_service_server/my_service_server.egg-info/requires.txt
+[0.855s] writing top-level names to ../../build/my_service_server/my_service_server.egg-info/top_level.txt
+[0.869s] reading manifest file '../../build/my_service_server/my_service_server.egg-info/SOURCES.txt'
+[0.869s] writing manifest file '../../build/my_service_server/my_service_server.egg-info/SOURCES.txt'
+[0.869s] running build
+[0.869s] running build_py
+[0.869s] copying my_service_server/server_node.py -> /home/maxim/ros2_ws/build/my_service_server/build/lib/my_service_server
+[0.869s] running install
+[0.873s] running install_lib
+[0.880s] copying /home/maxim/ros2_ws/build/my_service_server/build/lib/my_service_server/server_node.py -> /home/maxim/ros2_ws/install/my_service_server/lib/python3.12/site-packages/my_service_server
+[0.880s] byte-compiling /home/maxim/ros2_ws/install/my_service_server/lib/python3.12/site-packages/my_service_server/server_node.py to server_node.cpython-312.pyc
+[0.880s] running install_data
+[0.880s] running install_egg_info
+[0.887s] removing '/home/maxim/ros2_ws/install/my_service_server/lib/python3.12/site-packages/my_service_server-0.0.0-py3.12.egg-info' (and everything under it)
+[0.888s] Copying ../../build/my_service_server/my_service_server.egg-info to /home/maxim/ros2_ws/install/my_service_server/lib/python3.12/site-packages/my_service_server-0.0.0-py3.12.egg-info
+[0.888s] running install_scripts
+[0.942s] Installing velocity_server script to /home/maxim/ros2_ws/install/my_service_server/lib/my_service_server
+[0.942s] writing list of installed files to '/home/maxim/ros2_ws/build/my_service_server/install.log'
+[0.962s] Invoked command in '/home/maxim/ros2_ws/src/my_service_server' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/maxim/ros2_ws/build/my_service_server/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/maxim/ros2_ws/install/my_service_server/lib/python3.12/site-packages:/home/maxim/ros2_ws/install/my_service_interfaces/lib/python3.12/site-packages:/home/maxim/ros2_ws/install/my_service_server/lib/python3.12/site-packages:/home/maxim/ros2_ws/install/talker_uint32t/lib/python3.12/site-packages:/home/maxim/ros2_ws/install/talker/lib/python3.12/site-packages:/home/maxim/ros2_ws/install/my_turtle_controller/lib/python3.12/site-packages:/home/maxim/ros2_ws/install/listener/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_service_server build --build-base /home/maxim/ros2_ws/build/my_service_server/build install --record /home/maxim/ros2_ws/build/my_service_server/install.log --single-version-externally-managed install_data

@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+build/talker_uint32t/talker_uint32t.egg-info/PKG-INFO
+build/talker_uint32t/talker_uint32t.egg-info/SOURCES.txt
+build/talker_uint32t/talker_uint32t.egg-info/dependency_links.txt
+build/talker_uint32t/talker_uint32t.egg-info/entry_points.txt
+build/talker_uint32t/talker_uint32t.egg-info/requires.txt
+build/talker_uint32t/talker_uint32t.egg-info/top_level.txt
+build/talker_uint32t/talker_uint32t.egg-info/zip-safe
+resource/talker_uint32t
+talker_uint32t/__init__.py
+talker_uint32t/talker_uint32t.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

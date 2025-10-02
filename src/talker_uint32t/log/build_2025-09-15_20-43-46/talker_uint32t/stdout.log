@@ -1,0 +1,35 @@
+running egg_info
+creating build/talker_uint32t/talker_uint32t.egg-info
+writing build/talker_uint32t/talker_uint32t.egg-info/PKG-INFO
+writing dependency_links to build/talker_uint32t/talker_uint32t.egg-info/dependency_links.txt
+writing entry points to build/talker_uint32t/talker_uint32t.egg-info/entry_points.txt
+writing requirements to build/talker_uint32t/talker_uint32t.egg-info/requires.txt
+writing top-level names to build/talker_uint32t/talker_uint32t.egg-info/top_level.txt
+writing manifest file 'build/talker_uint32t/talker_uint32t.egg-info/SOURCES.txt'
+reading manifest file 'build/talker_uint32t/talker_uint32t.egg-info/SOURCES.txt'
+writing manifest file 'build/talker_uint32t/talker_uint32t.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/maxim/ros2_ws/src/talker_uint32t/build/talker_uint32t/build
+creating /home/maxim/ros2_ws/src/talker_uint32t/build/talker_uint32t/build/lib
+creating /home/maxim/ros2_ws/src/talker_uint32t/build/talker_uint32t/build/lib/talker_uint32t
+copying talker_uint32t/talker_uint32t.py -> /home/maxim/ros2_ws/src/talker_uint32t/build/talker_uint32t/build/lib/talker_uint32t
+copying talker_uint32t/__init__.py -> /home/maxim/ros2_ws/src/talker_uint32t/build/talker_uint32t/build/lib/talker_uint32t
+running install
+running install_lib
+creating /home/maxim/ros2_ws/src/talker_uint32t/install/talker_uint32t/lib/python3.12/site-packages/talker_uint32t
+copying /home/maxim/ros2_ws/src/talker_uint32t/build/talker_uint32t/build/lib/talker_uint32t/talker_uint32t.py -> /home/maxim/ros2_ws/src/talker_uint32t/install/talker_uint32t/lib/python3.12/site-packages/talker_uint32t
+copying /home/maxim/ros2_ws/src/talker_uint32t/build/talker_uint32t/build/lib/talker_uint32t/__init__.py -> /home/maxim/ros2_ws/src/talker_uint32t/install/talker_uint32t/lib/python3.12/site-packages/talker_uint32t
+byte-compiling /home/maxim/ros2_ws/src/talker_uint32t/install/talker_uint32t/lib/python3.12/site-packages/talker_uint32t/talker_uint32t.py to talker_uint32t.cpython-312.pyc
+byte-compiling /home/maxim/ros2_ws/src/talker_uint32t/install/talker_uint32t/lib/python3.12/site-packages/talker_uint32t/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/maxim/ros2_ws/src/talker_uint32t/install/talker_uint32t/share/ament_index
+creating /home/maxim/ros2_ws/src/talker_uint32t/install/talker_uint32t/share/ament_index/resource_index
+creating /home/maxim/ros2_ws/src/talker_uint32t/install/talker_uint32t/share/ament_index/resource_index/packages
+copying resource/talker_uint32t -> /home/maxim/ros2_ws/src/talker_uint32t/install/talker_uint32t/share/ament_index/resource_index/packages
+copying package.xml -> /home/maxim/ros2_ws/src/talker_uint32t/install/talker_uint32t/share/talker_uint32t
+running install_egg_info
+Copying build/talker_uint32t/talker_uint32t.egg-info to /home/maxim/ros2_ws/src/talker_uint32t/install/talker_uint32t/lib/python3.12/site-packages/talker_uint32t-0.0.0-py3.12.egg-info
+running install_scripts
+Installing talker script to /home/maxim/ros2_ws/src/talker_uint32t/install/talker_uint32t/lib/talker_uint32t
+writing list of installed files to '/home/maxim/ros2_ws/src/talker_uint32t/build/talker_uint32t/install.log'
